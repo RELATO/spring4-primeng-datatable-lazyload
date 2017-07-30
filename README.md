@@ -1,4 +1,4 @@
-# springboot-primeng-datatable-lazyload
+# spring4-primeng-datatable-lazyload
 
 ### Description
 This project demonstrate how to use PrimeNG Datatable lazy load functionality with spring jdbctemplate.
@@ -6,6 +6,8 @@ Project comes with inmemory H2 db. You can find the scripts in "backend/src/main
 This project demonstrate how to use server side, sorting, filtering and pagination using spring jdbcTemplate
 and PrimeNG Dataload
 
+## Backend
+4.3.4.RELEASE of Spring MVC
 
 ### Instruction
 1. Run ```npm install ``` inside frontend folder
